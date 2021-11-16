@@ -1,0 +1,65 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Popines';
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: rgb(35, 35, 35);
+}
+
+span {
+    font-size: .9rem;
+    color: #757373;
+}
+
+h6 {
+    font-size: 1.1rem;
+    color: rgb(24, 24, 49);
+}
+
+header {
+    height: 100px;
+    margin: 20px;
+    padding: 1vw 8vw;
+    border: 2px solid red;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+header img{
+    height: inherit;
+    width: inherit;
+    cursor: pointer;
+}
+nav {
+    display:flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    border: 1px solid blue;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+    border: 1px solid brown;
+}
+nav ul li a {
+    text-decoration:none;
+    color: gray;
+    padding:15px 25px;
+    font-size: 20px;
+    transition: 0.075;
+}
+nav ul li a:hover {
+    background-color: orange;
+    color:white;
+    transform: inherit;
+} */
